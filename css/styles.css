@@ -3,7 +3,7 @@ body {
 }
 
 nav {
-    background-color: #ffc62c;
+    background-color: #eaeaea;
 }
 
 .nav-link {
@@ -91,7 +91,7 @@ nav {
 }
 
 .bg2 {
-    background-color: #ffc62c;
+    background-color: #eaeaea;
 }
 
 .bg2 h2 {
@@ -113,7 +113,7 @@ nav {
 }
 
 .set2 i {
-    color: #fff;
+    color: #313131;
     font-size: 15px;
     vertical-align: 2px;
     padding-right: 2px;
